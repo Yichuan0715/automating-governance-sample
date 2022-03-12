@@ -21,7 +21,7 @@ __email__ = 'armandl@amazon.com'
 __status__ = 'sample'
 
 '''
-generic helpers
+ generic helpers
 
 '''
 
